@@ -8,7 +8,6 @@ I'm a 23 years old coding enthusiast with four years of hands-on experience in t
 
 *   🌍  I'm based in Nilai, Malaysia
 *   ✉️  You can contact me at [zulqarnainf26@gmail.com](mailto:zulqarnainf26@gmail.com)
-*   🚀  I'm currently working on [BudakGeek](http://budakgeek.me)
 *   🧠  I'm learning Laravel
 *   🤝  I'm open to collaborating on SaaS project, web development or any type of project
 
