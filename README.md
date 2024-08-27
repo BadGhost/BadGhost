@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Iskandar Zulqarnain
 ===========================================================================================================================================
 
-Web Developer & Information Security Student
+Cloud Enthusiast | DevSecOps | Full Stack
 --------------------------------------------
 
-I'm a 23 years old coding enthusiast with four years of hands-on experience in the world of programming. My journey in the tech realm began at a young age, and I've since evolved into a dedicated backend developer. My tech arsenal revolves around the Laravel framework, a powerful and elegant PHP framework that resonates with my development style. On the frontend, I wield Vue.js to create dynamic and responsive user interfaces. For that smooth server-side experience, Inertia.js is my go-to tool.
+I'm a 24 years old technology enthusiast with four years of hands-on experience in the world of programming, cloud computing and security best practice. My journey in the tech realm began at a young age, and I've since evolved into a dedicated backend developer. My preference tech stack revolves around the Laravel framework, a powerful and elegant PHP framework that resonates with my development style. On the frontend, I wield Vue.js to create dynamic and responsive user interfaces. For that smooth server-side experience, Inertia.js is my go-to tool.
 
-*   🌍  I'm based in Nilai, Malaysia
+*   🌍  I'm from Malaysia
 *   ✉️  You can contact me at [zulqarnainf26@gmail.com](mailto:zulqarnainf26@gmail.com)
-*   🧠  I'm learning Laravel
+*   🧠  I'm learning Laravel/AWS/React
 *   🤝  I'm open to collaborating on SaaS project, web development or any type of project
 
 ### Skills 
