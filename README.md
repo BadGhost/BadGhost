@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Iskandar Zulqarnain
 ===========================================================================================================================================
 
-Cloud Enthusiast | DevSecOps | Full Stack
+Power user | Developer | Cloud Infra
 --------------------------------------------
 
-I'm a 24 years old technology enthusiast with four years of hands-on experience in the world of programming, cloud computing and security best practice. My journey in the tech realm began at a young age, and I've since evolved into a dedicated backend developer. My goals is to master in kubernetes and developer for kubernetes.   
+I'm a 24 years old technology enthusiast with years of hands-on experience in the world of programming, cloud computing and security best practice. My journey in the tech realm began at a young age, and I've since evolved into a dedicated backend developer. My goals is to get better and be among the best.   
 
 *   🌍  I'm from Malaysia
 *   ✉️  You can contact me at [zulqarnainf26@gmail.com](mailto:zulqarnainf26@gmail.com)
